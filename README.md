@@ -1,4 +1,4 @@
-# ESP32 anylyse IR remote control protocols
+# ESP32 analyse IR remote control protocols
 Implement analyse IR remote control protocols for ESP32 boards with Arduino framework
 
 #### Protocols supported:
