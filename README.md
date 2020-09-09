@@ -1,7 +1,10 @@
 # ESP32 anylyse IR remote control protocols
 Implement analyse IR remote control protocols for ESP32 boards with Arduino framework
 
-Last update: September 2020
+#### Protocols supported:
+NEC, SONY, RC5, RC6, DISH, SHARP, SHARP_ALT, JVC, SANYO, MITSUBISHI, SAMSUNG,  LG, WHYNTER, AIWA_RC_T501, PANASONIC, Denon and BOSEWAVE .
+#### Last update:
+September 2020
 
 #### Development notes
 - If you start a new Platformio project, use:
