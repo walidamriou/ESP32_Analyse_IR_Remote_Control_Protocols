@@ -1,5 +1,5 @@
 # ESP32 anylyse IR remote control protocols
-Implement anylyse IR remote control protocols for ESP32 boards with Arduino framework.
+Implement analyse IR remote control protocols for ESP32 boards with Arduino framework
 
 Last update: September 2020
 
